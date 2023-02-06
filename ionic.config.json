@@ -1,0 +1,7 @@
+{
+  "name": "climabr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
